@@ -17,6 +17,7 @@ public class PostManager {
             return json;
         }catch (JsonProcessingException exception){
             throw new RuntimeException(exception);
+
         }
     }
 

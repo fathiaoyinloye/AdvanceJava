@@ -1,4 +1,4 @@
-package Lambda;
+package chp17.Lambda;
 
 import java.util.function.IntPredicate;
 import java.util.stream.IntStream;
